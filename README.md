@@ -6,7 +6,7 @@ Great for testing simple deployments to the cloud
 
 ## Create a .tgz file
 
-`npm pack`
+`npm pack.
 
 ## Run It
 
